@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardButton , InlineKeyboardMarkup
 from telebot.types import ReplyKeyboardMarkup
 
-bot = telebot.TeleBot('7275915181:AAFP7rBPJ_GtTvBf8CqvPgxnPWl-OfSLQVI')
+bot = #Bot's API
 
 button1 = InlineKeyboardButton("First")
 button2 = InlineKeyboardButton("Second")
