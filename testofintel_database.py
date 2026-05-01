@@ -31,7 +31,7 @@ def insert() :
     connection.close()
 
 #the bot
-bot = TeleBot("7275915181:AAFP7rBPJ_GtTvBf8CqvPgxnPWl-OfSLQVI")
+bot = #The Api of the bot
 #keyboard
 keyboard = ReplyKeyboardMarkup(resize_keyboard= True , row_width= 1)
 button = KeyboardButton(text= "send info" , request_contact= True)
